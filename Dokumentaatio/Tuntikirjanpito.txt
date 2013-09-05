@@ -1,0 +1,4 @@
+==5.9.2013, Käytetty aika n. 1h==
+
+Tein git-repon, tyhjän netbeans-projektin, aloitin tuntikirjanpidon ja tein
+alustavan aihemäärittelyn.

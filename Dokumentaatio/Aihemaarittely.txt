@@ -1,0 +1,14 @@
+==Javalabra 2013 Othello==
+
+Othello on lautapeli, jossa kaksi pelaajaa laittaa vuoronperään oman maansa värisiä nappeja.
+Tarkoitus on "ylittää" toisen pelaajan nappuloita ja valloittaa ne itselleen.
+Kts. http://fi.wikipedia.org/wiki/Othello_%28lautapeli%29
+
+Kaikkien käyttäjien toiminnot:
+
+* Pelin aloittaminen
+* Nappulan asettaminen pelikentälle
+* Pelitilanteen tallentaminen
+
+
+
